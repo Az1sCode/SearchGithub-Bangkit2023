@@ -1,4 +1,4 @@
-APLIKASI SEARCHGITHUB
+# APLIKASI SEARCHGITHUB
 
 
 Sebuah aplikasi untuk mencari akun Github dan menampilkan datanya lewat API menggunakan retrofit. Aplikasi ini menampilkan list user Github berdasarkan nama yang dicari oleh
