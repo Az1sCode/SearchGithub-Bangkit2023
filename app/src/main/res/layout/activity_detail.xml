@@ -249,15 +249,4 @@
         android:layout_margin="24dp"
         android:contentDescription="@string/button_favorite" />
 
-    <ImageView
-        android:id="@+id/btnBack"
-        android:layout_width="30dp"
-        android:layout_height="30dp"
-        android:layout_margin="16dp"
-        android:src="@drawable/baseline_arrow_back_ios_new_24"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-
-        />
-
 </androidx.constraintlayout.widget.ConstraintLayout>
